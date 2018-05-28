@@ -1,0 +1,44 @@
+{
+  "name": "react-simple-readmore",
+  "version": "0.1.0",
+  "description": "Simple React Readmore – A React Component providing read more(ellipsis) functionality.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ganesh-91/react-simple-readmore.git"
+  },
+  "keywords": [
+    "react-simple-readmore",
+    "reactsimplereadmore",
+    "react-readmore",
+    "simple-readmore",
+    "readmore",
+    "read-more",
+    "react-component"
+  ],
+  "author": "ganesh khaire <ganesh.khaire91@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/ganesh-91/react-simple-readmore#readme",
+  "peerDependencies": {
+    "react": "^16.4.0"
+  },
+  "dependencies": {
+    "react": "^16.4.0",
+    "webpack": "^2.6.1"
+  },
+  "devDependencies": {
+    "style-loader": "^0.13.1",
+    "css-loader": "^0.26.1",
+    "eslint": "^3.12.2",
+    "eslint-plugin-react": "^6.8.0",
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  }
+}
